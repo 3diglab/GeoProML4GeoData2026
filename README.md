@@ -25,24 +25,24 @@ University of Milan-Bicocca
 **Date** | **Slot** | **Topic** | **Code & Data** | **slides**
 ------------ | ------------- | ------------ | ------------ | -------------
 | | |
-Tue 7 Jul | 8.30 - 10.30 | Introduction to 3D data |  | [SLIDES1](https://drive.google.com/file/d/1Z_9NyLO6gQsrBY-HlCPEfqKZU1eE-ix1/view?usp=sharing) |
+Tue 7 Jul | 8.30 - 10.30 | Introduction to 3D data |  | |
 | | |
-Tue 7 Jul | 10.30 - 12.30 |  LAB0 + 3D Applications | [LAB0](https://colab.research.google.com/drive/15MepjZaC3mMlNkgtslq67FvMP2zIFTpV?usp=sharing) | [SLIDES2](https://drive.google.com/file/d/132X0cCtKgIltpj1iWwlzSRCsSIz9LUlB/view?usp=sharing) |
+Tue 7 Jul | 10.30 - 12.30 |  LAB0 + 3D Applications | [LAB0](https://colab.research.google.com/drive/15MepjZaC3mMlNkgtslq67FvMP2zIFTpV?usp=sharing) |  |
 | | |
-Thu 9 Jul | 10.30 - 12.30 |  Spectral representation | [LAB0.5](https://drive.google.com/file/d/1R_xDJEHI9kxyj3KAExuz2R_Q1neTFTat/view?usp=sharing) | [SLIDES3](https://drive.google.com/file/d/1-LoiNI2ZzCFbazDy5MP-pU4tOsQywFqT/view?usp=sharing) |
+Thu 9 Jul | 10.30 - 12.30 |  Spectral representation | [LAB0.5](https://drive.google.com/file/d/1R_xDJEHI9kxyj3KAExuz2R_Q1neTFTat/view?usp=sharing) |  |
 | | |
-Thu 9 Jul | 14.00 - 16.00 | LAB1 spectral | [LAB1] (https://github.com/3diglab/geomfum)|  |
+Thu 9 Jul | 14.00 - 16.00 | LAB1 spectral | [LAB1](https://github.com/3diglab/geomfum)|  |
 | | |
-Thu 9 Jul | 16.00 - 18.00 |  |  |  |
+Thu 9 Jul | 16.00 - 18.00 | Point and convolution-based architectures |  |  |
 | | |
-Mon 13 Jul | 10.30 - 12.30 |  |  |  |
+Mon 13 Jul | 10.30 - 12.30 | LAB2 - Point-based | [LAB2](https://colab.research.google.com/drive/175CjAaoa62DySzsNynNqbQFIAlhDaXHR?usp=sharing) |  |
 | | |
-Mon 13 Jul | 14.00 - 16.00 |  |  |  |
+Mon 13 Jul | 14.00 - 16.00 | Transformers architectures  |  |  |
 | | |
-Mon 13 Jul | 16.00 - 18.00 |  |  |  |
+Mon 13 Jul | 16.00 - 18.00 | LAB3 - Transformers  |  |  |
 | | |
-Thu 16 Jul | 14.00 - 16.00 |  |  |  |
+Thu 16 Jul | 14.00 - 16.00 | LAB Project |  |
 | | |
-Thu 16 Jul | 16.00 - 18.00 |  |  |  |
+Thu 16 Jul | 16.00 - 18.00 | Project discussion |  |  |
 | | |
 
