@@ -41,7 +41,7 @@ Mon 13 Jul | 14.00 - 16.00 | Transformers architectures  |  |  |
 | | |
 Mon 13 Jul | 16.00 - 18.00 | LAB3 - Transformers  |  |  |
 | | |
-Thu 16 Jul | 14.00 - 16.00 | LAB Project |  |
+Thu 16 Jul | 14.00 - 16.00 | LAB4 Project |  |
 | | |
 Thu 16 Jul | 16.00 - 18.00 | Project discussion |  |  |
 | | |
