@@ -27,25 +27,22 @@ University of Milan-Bicocca
 | | |
 Tue 7 Jul | 8.30 - 10.30 | Introduction to 3D data |  | [SLIDES1](https://drive.google.com/file/d/1Z_9NyLO6gQsrBY-HlCPEfqKZU1eE-ix1/view?usp=sharing) |
 | | |
-Thu 23 Nov | 10.30 - 12.30 | LAB0 + 3D Applications | [LAB0](https://colab.research.google.com/drive/15MepjZaC3mMlNkgtslq67FvMP2zIFTpV?usp=sharing) | [SLIDES2](https://drive.google.com/file/d/132X0cCtKgIltpj1iWwlzSRCsSIz9LUlB/view?usp=sharing) |
+Tue 7 Jul | 10.30 - 12.30 |  |  |  |
 | | |
-Thu 23 Nov | 14.00 - 16.00 | Spectral representation | [LAB0.5](https://drive.google.com/file/d/1R_xDJEHI9kxyj3KAExuz2R_Q1neTFTat/view?usp=sharing) | [SLIDES3](https://drive.google.com/file/d/1-LoiNI2ZzCFbazDy5MP-pU4tOsQywFqT/view?usp=sharing) |
+Thu 9 Jul | 10.30 - 12.30 |  |  |  |
 | | |
-Thu 23 Nov | 16.00 - 18.00 | LAB1 - Applications |  [LAB1](https://drive.google.com/file/d/1MhfzQBmPj2VMORPUERVzCgflpmLbvEVo/view?usp=sharing)| |
+Thu 9 Jul | 14.00 - 16.00 |  |  |  |
 | | |
-Fri 24 Nov | 8.30 - 10.30 | Point-based architectures  |  | [SLIDES4](https://drive.google.com/file/d/1TEgkUzVg7wGJ6VaWGLMO4Y6AkFT8n_5X/view?usp=sharing) |
+Thu 9 Jul | 16.00 - 18.00 |  |  |  |
 | | |
-Fri 24 Nov | 10.30 - 12.30 | LAB2 - Point-based | [LAB2](https://colab.research.google.com/drive/175CjAaoa62DySzsNynNqbQFIAlhDaXHR?usp=sharing) |  |
+Mon 13 Jul | 10.30 - 12.30 |  |  |  |
 | | |
-Fri 24 Nov | 14.00 - 16.00 | Implicit and Volumetric |  | [SLIDES5](https://drive.google.com/file/d/1eVRWTsLvm1IF3iUR0C7-R8rLFi4LXxGU/view?usp=sharing)  |
+Mon 13 Jul | 14.00 - 16.00 |  |  |  |
 | | |
-Fri 24 Nov | 16.00 - 18.00 | LAB3 - Implicit and Volumetric | [LAB3](https://drive.google.com/file/d/1lBtqsqZmpHnh-vi86LG_D3YygQonQseb/view?usp=sharing)  |  |
+Mon 13 Jul | 16.00 - 18.00 |  |  |  |
 | | |
-Mon 27 Nov | 8.30 - 10.30 | ML on Graphs |  | [SLIDES6](https://drive.google.com/file/d/1NDQe9EiQlQTc9liZAlrVj9rGAsAX0MrO/view?usp=sharing) |
+Thu 16 Jul | 14.00 - 16.00 |  |  |  |
 | | |
-Mon 27 Nov | 10.30 - 12.30 | LAB4 - ML on Graphs | [LAB4](https://colab.research.google.com/drive/1Serk4B4Ih2-DUi-pccgQEjTtLoxfqe6R?usp=sharing) |  |
+Thu 16 Jul | 16.00 - 18.00 |  |  |  |
 | | |
-Mon 27 Nov | 14.00 - 16.00 | Mesh Convolution + LAB5 | [LAB5](https://drive.google.com/file/d/1QQ96x4rqRlgSxpEADIWl-aNENOaCtx8y/view?usp=sharing) | [SLIDES7](https://drive.google.com/file/d/1bZQ8O8-ykkbFWVwdZVD_Mp1OXtZPnxWp/view?usp=sharing) |
-| | |
-Mon 27 Nov | 16.00 - 18.00 | Future direction and discussion |  | [SLIDESms](https://drive.google.com/file/d/1wWP85KbkHulIcOhkj44uMDBWrPmPvS0V/view?usp=sharing) [SLIDESrm](https://drive.google.com/file/d/16TlGcDpaXnuCDkHQB5FGcK44PLk4m-KW/view?usp=sharing)|
-| | |
+
