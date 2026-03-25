@@ -19,8 +19,6 @@ University of Milan-Bicocca
       Monday  13/07/2026    10.30 - 12.30 and 14.00 - 18.00
       
       Thursday  16/07/2026    14.00 - 18.00
-      
-<p>prova</p>
 
 **Programme and resources:** 
 
