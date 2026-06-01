@@ -12,37 +12,39 @@ University of Milan-Bicocca
 
 **When: (attempt)** 
 
-      Tuesday 7/07/2026    8.30 - 12.30
+      Tuesday 9/07/2026    14.00 - 18.00
 
-      Thursday 9/07/2026    10.30 - 12.30 and 14.00 - 18.00
-
-      Monday  13/07/2026    10.30 - 12.30 and 14.00 - 18.00
+      Monday  13/07/2026   14.00 - 18.00
       
       Thursday  16/07/2026    14.00 - 18.00
+
+      Monday  20/07/2026    14.00 - 18.00
+
+      Thursday  23/07/2026    14.00 - 18.00
 
 **Programme and resources:** 
 
 **Date** | **Slot** | **Topic** | **Code & Data** | **slides**
 ------------ | ------------- | ------------ | ------------ | -------------
 | | |
-Tue 7 Jul | 8.30 - 10.30 | Introduction to 3D data |  | |
+Tue 9 Jul | 14.00 - 16.00 | Introduction to 3D data |  | |
 | | |
-Tue 7 Jul | 10.30 - 12.30 |  LAB0 + 3D Applications | [LAB0](https://colab.research.google.com/drive/15MepjZaC3mMlNkgtslq67FvMP2zIFTpV?usp=sharing) |  |
+Tue 9 Jul | 16.00 - 18.00 |  LAB0 + 3D Applications | [LAB0](https://colab.research.google.com/drive/15MepjZaC3mMlNkgtslq67FvMP2zIFTpV?usp=sharing) |  |
 | | |
-Thu 9 Jul | 10.30 - 12.30 |  Spectral representation | [LAB0.5](https://drive.google.com/file/d/1R_xDJEHI9kxyj3KAExuz2R_Q1neTFTat/view?usp=sharing) |  |
+Thu 13 Jul | 14.00 - 16.00 |  Spectral representation | [LAB0.5](https://drive.google.com/file/d/1R_xDJEHI9kxyj3KAExuz2R_Q1neTFTat/view?usp=sharing) |  |
 | | |
-Thu 9 Jul | 14.00 - 16.00 | LAB1 spectral | [LAB1](https://github.com/3diglab/geomfum)|  |
+Thu 13 Jul | 16.00 - 18.00 | LAB1 spectral | [LAB1](https://github.com/3diglab/geomfum)|  |
 | | |
-Thu 9 Jul | 16.00 - 18.00 | Point and convolution-based architectures |  |  |
+Thu 16 Jul | 14.00 - 16.00 | Point based architectures |  |  |
 | | |
-Mon 13 Jul | 10.30 - 12.30 | LAB2 - Point-based | [LAB2](https://colab.research.google.com/drive/175CjAaoa62DySzsNynNqbQFIAlhDaXHR?usp=sharing) |  |
+Mon 16 Jul | 16.00 - 18.00 | LAB2 - Point-based | [LAB2](https://colab.research.google.com/drive/175CjAaoa62DySzsNynNqbQFIAlhDaXHR?usp=sharing) |  |
 | | |
-Mon 13 Jul | 14.00 - 16.00 | Transformers architectures  |  |  |
+Mon 20 Jul | 14.00 - 16.00 | GNN and Transformers architectures  |  |  |
 | | |
-Mon 13 Jul | 16.00 - 18.00 | LAB3 - Transformers  |  |  |
+Mon 20 Jul | 16.00 - 18.00 | LAB3 - GNN and Transformers  |  |  |
 | | |
-Thu 16 Jul | 14.00 - 16.00 | LAB4 Project |  |
+Thu 23 Jul | 14.00 - 16.00 | Project finalization |  |
 | | |
-Thu 16 Jul | 16.00 - 18.00 | Project discussion |  |  |
+Thu 23 Jul | 16.00 - 18.00 | Project discussion |  |  |
 | | |
 
