@@ -12,7 +12,7 @@ University of Milan-Bicocca
 
 **When: (attempt)** 
 
-      Tuesday 9/07/2026    14.00 - 18.00
+      Thursday 9/07/2026    14.00 - 18.00
 
       Monday  13/07/2026   14.00 - 18.00
       
@@ -27,17 +27,17 @@ University of Milan-Bicocca
 **Date** | **Slot** | **Topic** | **Code & Data** | **slides**
 ------------ | ------------- | ------------ | ------------ | -------------
 | | |
-Tue 9 Jul | 14.00 - 16.00 | Introduction to 3D data |  | |
+Thu 9 Jul | 14.00 - 16.00 | Introduction to 3D data |  | |
 | | |
-Tue 9 Jul | 16.00 - 18.00 |  LAB0 + 3D Applications | [LAB0](https://colab.research.google.com/drive/15MepjZaC3mMlNkgtslq67FvMP2zIFTpV?usp=sharing) |  |
+Thu 9 Jul | 16.00 - 18.00 |  LAB0 + 3D Applications | [LAB0](https://colab.research.google.com/drive/15MepjZaC3mMlNkgtslq67FvMP2zIFTpV?usp=sharing) |  |
 | | |
-Thu 13 Jul | 14.00 - 16.00 |  Spectral representation | [LAB0.5](https://drive.google.com/file/d/1R_xDJEHI9kxyj3KAExuz2R_Q1neTFTat/view?usp=sharing) |  |
+Mon 13 Jul | 14.00 - 16.00 |  Spectral representation | [LAB0.5](https://drive.google.com/file/d/1R_xDJEHI9kxyj3KAExuz2R_Q1neTFTat/view?usp=sharing) |  |
 | | |
-Thu 13 Jul | 16.00 - 18.00 | LAB1 spectral | [LAB1](https://github.com/3diglab/geomfum)|  |
+Mon 13 Jul | 16.00 - 18.00 | LAB1 spectral | [LAB1](https://github.com/3diglab/geomfum)|  |
 | | |
 Thu 16 Jul | 14.00 - 16.00 | Point based architectures |  |  |
 | | |
-Mon 16 Jul | 16.00 - 18.00 | LAB2 - Point-based | [LAB2](https://colab.research.google.com/drive/175CjAaoa62DySzsNynNqbQFIAlhDaXHR?usp=sharing) |  |
+Thu 16 Jul | 16.00 - 18.00 | LAB2 - Point-based | [LAB2](https://colab.research.google.com/drive/175CjAaoa62DySzsNynNqbQFIAlhDaXHR?usp=sharing) |  |
 | | |
 Mon 20 Jul | 14.00 - 16.00 | GNN and Transformers architectures  |  |  |
 | | |
