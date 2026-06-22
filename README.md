@@ -12,7 +12,7 @@ University of Milan-Bicocca
 
 **When: (attempt)** 
 
-      Thursday 9/07/2026    14.00 - 18.00    U244 C02
+      Thursday 9/07/2026    9.30 - 13.30    U14 T024
 
       Monday  13/07/2026   14.00 - 18.00    U14 T023
 
@@ -20,16 +20,16 @@ University of Milan-Bicocca
       
       Thursday  16/07/2026    14.00 - 18.00    U14 T023
 
-      Thursday  23/07/2026    9.30 - 13.30    U14 T023
+      Thursday  23/07/2026    9.30 - 13.30    U14 T024
 
 **Programme and resources:** 
 
 **Date** | **Slot** | **Topic** | **Code & Data** | **slides**
 ------------ | ------------- | ------------ | ------------ | -------------
 | | |
-Thu 9 Jul | 14.00 - 16.00 | Introduction to 3D data |  | |
+Thu 9 Jul | 9.30 - 11.30 | Introduction to 3D data |  | |
 | | |
-Thu 9 Jul | 16.00 - 18.00 |  LAB0 + 3D Applications | [LAB0](https://colab.research.google.com/drive/15MepjZaC3mMlNkgtslq67FvMP2zIFTpV?usp=sharing) |  |
+Thu 9 Jul | 11.30 - 13.30 |  LAB0 + 3D Applications | [LAB0](https://colab.research.google.com/drive/15MepjZaC3mMlNkgtslq67FvMP2zIFTpV?usp=sharing) |  |
 | | |
 Mon 13 Jul | 14.00 - 16.00 |  Spectral representation | [LAB0.5](https://drive.google.com/file/d/1R_xDJEHI9kxyj3KAExuz2R_Q1neTFTat/view?usp=sharing) |  |
 | | |
