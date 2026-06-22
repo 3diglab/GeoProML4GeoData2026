@@ -12,15 +12,15 @@ University of Milan-Bicocca
 
 **When: (attempt)** 
 
-      Thursday 9/07/2026    14.00 - 18.00
+      Thursday 9/07/2026    14.00 - 18.00    U244 C02
 
-      Monday  13/07/2026   14.00 - 18.00
+      Monday  13/07/2026   14.00 - 18.00    U14 T023
+
+      Tuesday  14/07/2026    9.30 - 13.30    U14 T023
       
-      Thursday  16/07/2026    14.00 - 18.00
+      Thursday  16/07/2026    14.00 - 18.00    U14 T023
 
-      Monday  20/07/2026    14.00 - 18.00
-
-      Thursday  23/07/2026    14.00 - 18.00
+      Thursday  23/07/2026    9.30 - 13.30    U14 T023
 
 **Programme and resources:** 
 
@@ -35,16 +35,16 @@ Mon 13 Jul | 14.00 - 16.00 |  Spectral representation | [LAB0.5](https://drive.g
 | | |
 Mon 13 Jul | 16.00 - 18.00 | LAB1 spectral | [LAB1](https://github.com/3diglab/geomfum)|  |
 | | |
-Thu 16 Jul | 14.00 - 16.00 | Point based architectures |  |  |
+Tue 14 Jul | 9.30 - 11.30 | Point based architectures |  |  |
 | | |
-Thu 16 Jul | 16.00 - 18.00 | LAB2 - Point-based | [LAB2](https://colab.research.google.com/drive/175CjAaoa62DySzsNynNqbQFIAlhDaXHR?usp=sharing) |  |
+Tue 14 Jul | 11.30 - 13.30 | LAB2 - Point-based | [LAB2](https://colab.research.google.com/drive/175CjAaoa62DySzsNynNqbQFIAlhDaXHR?usp=sharing) |  |
 | | |
-Mon 20 Jul | 14.00 - 16.00 | GNN and Transformers architectures  |  |  |
+Thu 16 Jul | 14.00 - 16.00 | GNN and Transformers architectures  |  |  |
 | | |
-Mon 20 Jul | 16.00 - 18.00 | LAB3 - GNN and Transformers  |  |  |
+Thu 16 Jul | 16.00 - 18.00 | LAB3 - GNN and Transformers  |  |  |
 | | |
-Thu 23 Jul | 14.00 - 16.00 | Project finalization |  |
+Thu 23 Jul | 9.30 - 11.30 | Project finalization |  |
 | | |
-Thu 23 Jul | 16.00 - 18.00 | Project discussion |  |  |
+Thu 23 Jul | 11.30 - 13.30 | Project discussion |  |  |
 | | |
 
