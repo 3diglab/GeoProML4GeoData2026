@@ -33,7 +33,7 @@ Thu 9 Jul | 11.30 - 13.30 |  LAB0 + 3D Applications | [LAB0](https://colab.resea
 | | |
 Mon 13 Jul | 14.00 - 16.00 |  Spectral representation |  |  |
 | | |
-Mon 13 Jul | 16.00 - 18.00 | LAB1 spectral | [LAB1](https://github.com/3diglab/geomfum)|  |
+Mon 13 Jul | 16.00 - 18.00 | LAB1 spectral | [LAB1](https://drive.google.com/file/d/1JGxVcwxVdJde3apWif1hjsyparkWf9dW/view?usp=sharing)[LAB1.5](https://github.com/3diglab/geomfum)|  |
 | | |
 Tue 14 Jul | 9.30 - 11.30 | Point based and Convolution-based architectures |  |  |
 | | |
