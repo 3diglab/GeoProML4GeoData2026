@@ -29,7 +29,7 @@ University of Milan-Bicocca
 | | |
 Thu 9 Jul | 9.30 - 11.30 | Introduction to 3D data |  | |
 | | |
-Thu 9 Jul | 11.30 - 13.30 |  LAB0 + 3D Applications | [LAB0](https://colab.research.google.com/drive/15MepjZaC3mMlNkgtslq67FvMP2zIFTpV?usp=sharing), [LAB0.5](https://drive.google.com/file/d/1R_xDJEHI9kxyj3KAExuz2R_Q1neTFTat/view?usp=sharing) |  |
+Thu 9 Jul | 11.30 - 13.30 |  LAB0 + 3D Applications | [LAB0](https://colab.research.google.com/drive/15yxdZUzQu0L6SRyp1vmkb4LWgiEDndUH?usp=sharing), [LAB0.5](https://drive.google.com/file/d/1mMsg1GaN8seyM32yvFt4Z6WMU_8PEv0n/view?usp=sharing) |  |
 | | |
 Mon 13 Jul | 14.00 - 16.00 |  Spectral representation |  |  |
 | | |
