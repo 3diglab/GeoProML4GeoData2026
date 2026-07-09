@@ -6,7 +6,7 @@ This is the Repository for the course Geometry Processing and Machine Learning f
 **Lecturers:** Simone Melzi [website](https://sites.google.com/site/melzismn/)
 
 **Where:**
-Aula Seminari, First or third floor, Building U14, Viale Sarca 336, 20125, Milan (Italy)
+Building U14, Viale Sarca 336, 20125, Milan (Italy)
 Department of Informatics, Systems and Communication (DISCo)
 University of Milan-Bicocca
 
