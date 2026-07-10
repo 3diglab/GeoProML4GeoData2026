@@ -31,7 +31,7 @@ Thu 9 Jul | 9.30 - 11.30 | Introduction to 3D data |  | [SLIDES0](https://drive.
 | | |
 Thu 9 Jul | 11.30 - 13.30 |  LAB0 + 3D Applications | [LAB0](https://colab.research.google.com/drive/15yxdZUzQu0L6SRyp1vmkb4LWgiEDndUH?usp=sharing), [LAB0.5](https://drive.google.com/file/d/1mMsg1GaN8seyM32yvFt4Z6WMU_8PEv0n/view?usp=sharing) |  |
 | | |
-Mon 13 Jul | 14.00 - 16.00 |  Spectral representation |  |  |
+Mon 13 Jul | 14.00 - 16.00 |  Spectral representation |  | [SLIDES1](https://drive.google.com/file/d/1RkySe5-ly1Iha3oMpPloHLMXeIBrPUNI/view?usp=sharing) |
 | | |
 Mon 13 Jul | 16.00 - 18.00 | LAB1 spectral | [LAB1](https://drive.google.com/file/d/1JGxVcwxVdJde3apWif1hjsyparkWf9dW/view?usp=sharing), [LAB1.5](https://github.com/3diglab/geomfum)|  |
 | | |
