@@ -35,9 +35,9 @@ Mon 13 Jul | 14.00 - 16.00 |  Spectral representation |  | [SLIDES1](https://dri
 | | |
 Mon 13 Jul | 16.00 - 18.00 | LAB1 spectral | [LAB1](https://drive.google.com/file/d/1JGxVcwxVdJde3apWif1hjsyparkWf9dW/view?usp=sharing), [LAB1.5](https://github.com/3diglab/geomfum)|  |
 | | |
-Tue 14 Jul | 9.30 - 11.30 | Point based and Convolution-based architectures |  |  |
+Tue 14 Jul | 9.30 - 11.30 | Point based and Convolution-based architectures |  | [SLIDES2](https://drive.google.com/file/d/1iewZTkI-GtPHD233ei20UDCe8OkuWF2g/view?usp=sharing) |
 | | |
-Tue 14 Jul | 11.30 - 13.30 | LAB2 - Point-based | [LAB2](https://colab.research.google.com/drive/175CjAaoa62DySzsNynNqbQFIAlhDaXHR?usp=sharing) |  |
+Tue 14 Jul | 11.30 - 13.30 | LAB2 - Point-based and spectral convolution| [LAB2](https://colab.research.google.com/drive/175CjAaoa62DySzsNynNqbQFIAlhDaXHR?usp=sharing) [LAB2.5](https://drive.google.com/file/d/1ijKt0yRMGzdcymKsHPP_EmeiHSIjGe-w/view?usp=sharing)|  |
 | | |
 Thu 16 Jul | 14.00 - 16.00 | GNN and Transformers architectures  | [LAB3.5](https://drive.google.com/file/d/1IHsWcd0FIPauNTjx7HUTHWAhxuu0c4SE/view?usp=sharing) |  |
 | | |
