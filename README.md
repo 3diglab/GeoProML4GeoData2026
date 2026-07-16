@@ -39,7 +39,7 @@ Tue 14 Jul | 9.30 - 11.30 | Point based and Convolution-based architectures |  |
 | | |
 Tue 14 Jul | 11.30 - 13.30 | LAB2 - Point-based and spectral convolution| [LAB2](https://colab.research.google.com/drive/175CjAaoa62DySzsNynNqbQFIAlhDaXHR?usp=sharing) [LAB2.5](https://drive.google.com/file/d/1ijKt0yRMGzdcymKsHPP_EmeiHSIjGe-w/view?usp=sharing)|  |
 | | |
-Thu 16 Jul | 14.00 - 16.00 | GNN and Transformers architectures  |  |  |
+Thu 16 Jul | 14.00 - 16.00 | GNN and Transformers architectures  |  | [SLIDES3](https://drive.google.com/file/d/1LT7ctb-bH9f7JuXr56YVzkyR5JY5I0T7/view?usp=sharing) |
 | | |
 Thu 16 Jul | 16.00 - 18.00 | LAB3 - Transformers  | [LAB3](https://colab.research.google.com/drive/11AGt1XWJk-YBa80F2R2CaazChn4j3gpH?usp=sharing) [LAB3.5](https://drive.google.com/file/d/1IHsWcd0FIPauNTjx7HUTHWAhxuu0c4SE/view?usp=sharing) |  |
 | | |
