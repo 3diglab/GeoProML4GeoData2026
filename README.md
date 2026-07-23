@@ -43,7 +43,7 @@ Thu 16 Jul | 14.00 - 16.00 | GNN and Transformers architectures  |  | [SLIDES3](
 | | |
 Thu 16 Jul | 16.00 - 18.00 | LAB3 - Transformers  | [LAB3](https://colab.research.google.com/drive/11AGt1XWJk-YBa80F2R2CaazChn4j3gpH?usp=sharing) [LAB3.5](https://drive.google.com/file/d/1IHsWcd0FIPauNTjx7HUTHWAhxuu0c4SE/view?usp=sharing) |  |
 | | |
-Thu 23 Jul | 9.30 - 11.30 | Project finalization |  |
+Thu 23 Jul | 9.30 - 11.30 | Project finalization |  | [SLIDES4](https://drive.google.com/file/d/14wQiPsMZ1y0JwjaQkA2FX4X944QOi4by/view?usp=sharing)
 | | |
 Thu 23 Jul | 11.30 - 13.30 | Project discussion |  |  |
 | | |
